@@ -7,7 +7,7 @@ Part 1
 5. Run the code. It will take around 5-6 minutes to load the trained network.
 6. After it loads it should be good by itself and will show you the accuracy as a fraction in decimal form.
 Hint
-Make sure that the trained network in the .mat file is in the workspace when you try to load it. When you load neuralnettumor, it should load as trained_network1 in the workspace and it is renamed into net later on.
+Make sure that the trained network in the .mat file is in the workspace when you try to load it. When you load neuralnettumor, it should load as trainedNetwork2 in the workspace and it is renamed into net later on.
 
 Part 2
 
